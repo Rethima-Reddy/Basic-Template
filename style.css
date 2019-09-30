@@ -1,0 +1,13 @@
+#d1
+{
+    display: grid;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    align-content: center;
+    justify-content: center;
+}
+.f1
+{
+    display: flex;
+    align-content: space-around; 
+}
