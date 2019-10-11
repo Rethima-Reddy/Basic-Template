@@ -37,3 +37,23 @@ a {
 {
     color: #05356B;
 }
+
+#image1
+{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border-radius : 50%;
+}
+.contactform
+{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+.youtube
+{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
